@@ -18,20 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sthan Dust -- The Sanity Framework and Beyond
+# title: Sthan Dust -- The Sanity Framework and Beyond
 #email: sthandust@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+# description: >- # this means to ignore newlines until "baseurl:"
  This is a site for all things related to Sthan Dust and the Sanity Framework
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-3twitter_username: SthanDust
+# twitter_username: SthanDust
 #github_username:  SthanDust
 
 # Build settings
-remote-theme: pages-themes/hacker@v0.2.0
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
+theme: jekyll-theme-hacker
+#plugins:
+#  - jekyll-feed
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
