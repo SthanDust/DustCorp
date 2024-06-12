@@ -28,7 +28,7 @@ twitter_username: SthanDust
 github_username:  SthanDust
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
