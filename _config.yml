@@ -28,7 +28,7 @@
 #github_username:  SthanDust
 
 # Build settings
-theme: jekyll-theme-hacker 
+theme: jekyll-theme-midnight
 #plugins:
 #  - jekyll-feed
 #  - jekyll-remote-theme
