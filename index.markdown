@@ -12,7 +12,6 @@ This page is devoted to all things related to my work on the Sanity Framework an
 
 Version 2 is currently in planning phases.
 
-* TOC {:toc}
 
 ***
 # My Mods
