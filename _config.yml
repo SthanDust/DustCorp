@@ -31,7 +31,6 @@ github_username:  SthanDust
 # theme: minima
 theme: jekyll-theme-hacker
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
