@@ -11,7 +11,9 @@ layout: default
 This page is devoted to all things related to my work on the Sanity Framework and other mods.  This framework is intended to bring an insanity element to the Fallout 4 and Starfield games.
 
 Version 2 is currently in planning phases.
+
 * TOC {:toc}
+
 ***
 # My Mods
 
