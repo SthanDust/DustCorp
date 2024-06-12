@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Sthan Dust -- The Sanity Framework and Beyond
-email: sthandust@gmail.com
+#email: sthandust@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  This is a site for all things related to Sthan Dust and the Sanity Framework
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SthanDust
-github_username:  SthanDust
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+3twitter_username: SthanDust
+#github_username:  SthanDust
 
 # Build settings
 remote-theme: pages-themes/midnight@v0.2.0
