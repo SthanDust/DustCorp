@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #github_username:  SthanDust
 
 # Build settings
-remote-theme: pages-themes/midnight@v0.2.0
+remote-theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
