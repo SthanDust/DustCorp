@@ -4,3 +4,8 @@
 @import "{{ site.theme }}";
 #header {display: none;}
 section { margin-top: 10px;}
+body {
+  background: #331c2b;
+  background-attachment: fixed !important;
+  background: linear-gradient(#331c2b, #1c1c1c);
+}
